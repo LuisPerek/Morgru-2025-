@@ -20,7 +20,7 @@ end_sensor = ColorSensor(Port.S3)
 min_value = 6
 max_value = 40
 
-speed = 75
+speed = 60 
 #spd = 80, kp, ki, kd = -1.1,-0.022, -3
 kp, ki, kd = 0.65,0.022,15
 precisao = 1
